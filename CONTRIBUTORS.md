@@ -1,4 +1,4 @@
-# Contribuidores do projeto Rede Social
+# Contribuidores do projeto Sistema ERP
 ## Product Owner.
 [O grupo](https://www.facebook.com/groups/1318495538253871/)
 
